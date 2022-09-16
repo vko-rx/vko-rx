@@ -6,4 +6,3 @@
 #### 🤍 TOOL
 <img src="https://img.shields.io/badge/Eclipse IDE-2C225?style=flat-square&logo=Eclipse IDE&logoColor=000000"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=000000"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=000000"/> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vko-rx)](https://github.com/vko-rx/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vko-rx)](https://github.com/vko-rx/github-readme-stats)
