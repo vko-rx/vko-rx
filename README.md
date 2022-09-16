@@ -1,5 +1,3 @@
-<div align="center">🏫 MIRIM MEISTER SCHOOL </div>
-
 <div align="center"> NEW MEDIA SOFTWARE 🖥️</div>
 
 #
